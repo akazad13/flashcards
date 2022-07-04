@@ -1,0 +1,16 @@
+.page-title {
+  padding: 15px;
+  margin-bottom: 50px;
+  text-align: center;
+  background: #444;
+  color: #fff;
+  font-size: 20px;
+}
+
+.category-grid {
+  padding: 0px 20px;
+}
+
+.mat-card-header .mat-card-title {
+  margin-bottom: 0;
+}
